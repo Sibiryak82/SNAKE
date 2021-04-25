@@ -1,6 +1,6 @@
 from tkinter import Tk, Canvas
 import random
-# 111
+
 # Globals
 WIDTH = 800
 HEIGHT = 600
